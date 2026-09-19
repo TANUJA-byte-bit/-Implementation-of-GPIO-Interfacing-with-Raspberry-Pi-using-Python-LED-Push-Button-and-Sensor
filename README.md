@@ -163,6 +163,8 @@ When the **push button is pressed** or the **sensor detects the required conditi
 
 When neither input condition is active, the LED remains OFF.
 
+<img width="1043" height="1600" alt="image" src="https://github.com/user-attachments/assets/e9d2392a-c243-45cb-aeaf-797978bc88ab" />
+
 ## 10. RESULT
 
 The **GPIO interfacing of LED, push button, and sensor with Raspberry Pi using Python** was successfully implemented and simulated using the **Wokwi simulator**.
